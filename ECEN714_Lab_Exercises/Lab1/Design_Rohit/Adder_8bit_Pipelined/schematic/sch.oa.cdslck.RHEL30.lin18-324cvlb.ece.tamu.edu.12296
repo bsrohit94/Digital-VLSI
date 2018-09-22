@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rohitsudan
+HostName                       lin18-324cvlb.ece.tamu.edu
+ProcessIdentifier              12296
+ProcessCreationTime_UTC        1536684281
+ProcessCreationTime_Readable   Tue Sep 11 11:44:41 2018 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/grads/r/rohitsudan/cadence_Rohit/ecen454_714/lab1/Design_Rohit/Adder_8bit_Pipelined/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Sep 11 12:36:16 2018 CDT
